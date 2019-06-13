@@ -6,5 +6,6 @@ def calc():
     location = input("Where he located: ")
 
     print(name + " is " + age + " years old " + " and have the amount of " + str(amount) + "." + " He is located on " + location)
+    print("raja")
 
 calc()    
